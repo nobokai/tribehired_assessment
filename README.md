@@ -1,4 +1,4 @@
-![Screenshot_1690120029](https://github.com/nobokai/tribehired_assessment/assets/54453783/d32f844e-ae93-460d-ad8c-cfa90ff77400)# tribehired_assessment
+## tribehired_assessment
 
 An assessment test prior to the interview at TribeHired.
 
