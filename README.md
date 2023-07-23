@@ -1,16 +1,10 @@
 # tribehired_assessment
 
-A new Flutter project.
+An assessment test prior to the interview at TribeHired.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Screenshots of all screens
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1690118249](https://github.com/nobokai/tribehired_assessment/assets/54453783/29917ead-5d42-4bbe-9b6e-d85880ef3384)
